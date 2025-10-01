@@ -645,6 +645,19 @@
                }
             }
          ]
+      },
+      {
+         "name": "Calendar",
+         "color": "info",
+         "widgets": [
+            {
+               "type": "basic",
+               "basic": {
+                  "title": "Calendar Events",
+                  "subtitle": "No events loaded yet."
+               }
+            }
+         ]
       }
    ]
 }
