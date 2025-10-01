@@ -22,7 +22,7 @@
          "color":"active",
          "source":{
             "endpoint":"custom-source",
-            "refresh":900
+            "refresh":5
          },
          "actions":{
             "sound":"sound = true",
